@@ -1,0 +1,5 @@
+*.css
+*.svg
+babel.config.js
+scripts
+config
